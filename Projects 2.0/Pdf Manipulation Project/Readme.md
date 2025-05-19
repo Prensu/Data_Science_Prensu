@@ -4,7 +4,7 @@ This project is a hands-on implementation of PDF manipulation tools using Python
 
 Certificate Link:https://www.udemy.com/certificate/UC-33ab33b0-b208-4b3d-be9b-5a9d3cc02903/
 
-![PDF Tool Demo](assets/certificate.jpg)
+![PDF Tool Demo](Assets/certificate.jpg)
 
 ## 📚 Course Overview
 
